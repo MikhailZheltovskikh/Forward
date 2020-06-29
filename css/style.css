@@ -80,50 +80,6 @@ a{
     background-size: cover;
     background-position: center ;
 }
-
-
-/*
-.header-content__present{ 
-       
-    width: 274px;
-    height: 274px;
-    border-radius: 50%;
-    background: linear-gradient(180deg, #F15921 0%, #EDAC2D 43.75%, #4BACCF 100%);
-    position: absolute;
-    z-index: 1;
-    bottom: -48px;
-    left: 43%;
-}
-
-.header-content__present-content{
-    color: #FFFFFF;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    text-align: center;
-    padding-top: 31px;
-    padding-bottom: 11px;   
-    position: relative; 
-}
-.header-content__present-content::before{
-    content: '';
-    background-image: url(../images/hed-vek.png);
-    width: 30px;
-    height: 44px;
-    position: absolute;
-    z-index: 2;
-    bottom: -49px;
-    left: 122px;
-
-}
-
-.header-content__present-content span{
-    display: inline-block;
-    width: 217px;
-    font-weight: 900;
-    font-size: 36px;
-    line-height: 35px;   
-} */
 /* end header */
 /* start bike */
 
